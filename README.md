@@ -1,6 +1,3 @@
-# japan-fertility-trends-2009-2024
-An analysis of birth rate trends and demographic shifts in Japan across age brackets and geographic regions (2009-2024).
-
 # Japan's Birth Rate Analysis (2009-2024) / 日本の出生率分析 (2009-2024)
 
 This repository contains a project analyzed via Jupyter Notebook, focusing on the demographic dynamics and birth rate contractions in Japan across different age groups, contrasted by rural and urban regions.
